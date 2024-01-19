@@ -1,6 +1,6 @@
 import 'package:dartz/dartz.dart';
-import 'package:teste/core/error/exceptions.dart';
 
+import '../../../../core/error/exceptions.dart';
 import '../../../../core/error/failures.dart';
 import '../../../../core/plataform/network_info.dart';
 import '../../domain/entities/number_trivia.dart';
